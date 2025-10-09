@@ -4,4 +4,4 @@
 
 <!-- this is a comment -->
 
-![Histogram]/histogram-example-2.png
+![Histogram]/(images/histogram-example-2 (1).png)
