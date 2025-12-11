@@ -26,4 +26,4 @@ It got me wondering... let's remove the cloud of personal opinion. Can a data sc
 
 
 
-(images/lotrplotly.png)
+images/lotrplotly.png
