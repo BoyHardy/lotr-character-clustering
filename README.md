@@ -1,4 +1,4 @@
-# The Lord of the Rings Main Characters
+# The Lord of the Rings Films: Main Characters
 
 This starts as all good stories do - in the pub.
 
