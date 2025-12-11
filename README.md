@@ -15,6 +15,8 @@ Two beers sat on the table (next to a few empty glasses) and the air was filled 
 It got me wondering... let's remove the cloud of personal opinion. Can a data science project objectively group the characters in a way that makes sense and answers our question: 
 ### Who are the main characters in The Lord of the Rings films?
 
+#### Spoilers: it worked
+
 
 <!-- this is a comment -->
 
