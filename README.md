@@ -1,6 +1,6 @@
 # The Lord of the Rings: Are there 'main characters'?
 
-### Executive Summary
+### Summary
 This starts as all good stories do - in the pub.
 
 <!-- this is a comment -->
