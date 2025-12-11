@@ -2,8 +2,13 @@
 
 This starts as all good stories do - in the pub.
 
+Click the link above to find out more
+
+
+
 <!-- this is a comment -->
 
-### The data
 
+
+Example pic
 ![Histogram](images/histogram-example-2.png)
